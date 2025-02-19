@@ -14,7 +14,7 @@ public class PracticeProblem {
 			currPos++;
 		}
 		if (count == 5) {
-			return currPos + 1;
+			return currPos;
 		}
 		return -1;
 	}
